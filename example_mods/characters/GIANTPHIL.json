@@ -1,0 +1,97 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-95,
+				46
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "philmodsprites left"
+		},
+		{
+			"offsets": [
+				10,
+				53
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "philmodsprites down"
+		},
+		{
+			"offsets": [
+				-6,
+				25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "philmodsprites up"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "philmodsprites idle",
+			"indices": [
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"offsets": [
+				10,
+				34
+			],
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "philmodsprites right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Phil_3",
+	"position": [
+		0,
+		-150
+	],
+	"healthicon": "phil",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		96,
+		255
+	],
+	"camera_position": [
+		-160,
+		140
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

@@ -1,0 +1,48 @@
+{
+	"storyName": "SuperNova",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"SuperNova",
+			"phil",
+			[
+				49,
+				96,
+				255
+			]
+		],
+		[
+			"Destruction",
+			"phil",
+			[
+				49,
+				96,
+				255
+			]
+		],
+		[
+			"Anhillation",
+			"phil",
+			[
+				49,
+				96,
+				255
+			]
+		]
+	],
+	"weekName": "blueboiphil"
+}

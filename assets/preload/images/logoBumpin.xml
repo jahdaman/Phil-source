@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="logoBumpin.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Phil Logo Bumpibn0000" x="0" y="0" width="687" height="435" frameX="-14" frameY="-8" frameWidth="713" frameHeight="451"/>
+	<SubTexture name="Phil Logo Bumpibn0001" x="687" y="0" width="713" height="451"/>
+	<SubTexture name="Phil Logo Bumpibn0002" x="0" y="451" width="691" height="437" frameX="-12" frameY="-7" frameWidth="713" frameHeight="451"/>
+	<SubTexture name="Phil Logo Bumpibn0003" x="691" y="451" width="672" height="425" frameX="-22" frameY="-13" frameWidth="713" frameHeight="451"/>
+	<SubTexture name="Phil Logo Bumpibn0004" x="691" y="451" width="672" height="425" frameX="-22" frameY="-13" frameWidth="713" frameHeight="451"/>
+	<SubTexture name="Phil Logo Bumpibn0005" x="691" y="451" width="672" height="425" frameX="-22" frameY="-13" frameWidth="713" frameHeight="451"/>
+	<SubTexture name="Phil Logo Bumpibn0006" x="691" y="451" width="672" height="425" frameX="-22" frameY="-13" frameWidth="713" frameHeight="451"/>
+	<SubTexture name="Phil Logo Bumpibn0007" x="691" y="451" width="672" height="425" frameX="-22" frameY="-13" frameWidth="713" frameHeight="451"/>
+	<SubTexture name="Phil Logo Bumpibn0008" x="691" y="451" width="672" height="425" frameX="-22" frameY="-13" frameWidth="713" frameHeight="451"/>
+	<SubTexture name="Phil Logo Bumpibn0009" x="691" y="451" width="672" height="425" frameX="-22" frameY="-13" frameWidth="713" frameHeight="451"/>
+	<SubTexture name="Phil Logo Bumpibn0010" x="691" y="451" width="672" height="425" frameX="-22" frameY="-13" frameWidth="713" frameHeight="451"/>
+	<SubTexture name="Phil Logo Bumpibn0011" x="691" y="451" width="672" height="425" frameX="-22" frameY="-13" frameWidth="713" frameHeight="451"/>
+	<SubTexture name="Phil Logo Bumpibn0012" x="691" y="451" width="672" height="425" frameX="-22" frameY="-13" frameWidth="713" frameHeight="451"/>
+	<SubTexture name="Phil Logo Bumpibn0013" x="691" y="451" width="672" height="425" frameX="-22" frameY="-13" frameWidth="713" frameHeight="451"/>
+	<SubTexture name="Phil Logo Bumpibn0014" x="691" y="451" width="672" height="425" frameX="-22" frameY="-13" frameWidth="713" frameHeight="451"/>
+</TextureAtlas>

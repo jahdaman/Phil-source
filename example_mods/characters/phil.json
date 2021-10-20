@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				175,
+				-24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "PHIL NOTE LEFT"
+		},
+		{
+			"offsets": [
+				20,
+				-58
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "PHIL NOTE DOWN"
+		},
+		{
+			"offsets": [
+				-6,
+				25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "PHIL NOTE UP"
+		},
+		{
+			"offsets": [
+				-90,
+				-26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "PHIL IDLE"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "PHIL NOTE RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Phil",
+	"position": [
+		0,
+		-60
+	],
+	"healthicon": "phil",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		96,
+		255
+	],
+	"camera_position": [
+		-90,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}
