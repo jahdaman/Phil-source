@@ -381,13 +381,14 @@ class PlayState extends MusicBeatState
 					add(stageCurtains);
 				}
 
-			case 'philstage3':
-				var toilet:BGSprite = new BGSprite('toilet', -400, 0, 0.9, 0.9);
+			case 'philstage3': //when u hardcode a stage be like //curious is a strange charter //psych is very cool dude, definitely made psych engine guys totally real //cyn said to play shaggy mod, i dont wanna
+				var toilet:BGSprite = new BGSprite('toilet', -400, -200, 0.65, 0.65);
 				toilet.updateHitbox();
+				toilet.scrollFactor.set(0.1, 0.1);
 				add(toilet);
 
 				handlol = new BGSprite('handlol', -600, -200, 0.9, 0.9);
-				handlol.updateHitbox();
+				handlol.updateHitbox(); //fuck this hand, i hate it
 
 			case 'spooky': //Week 2
 				if(!ClientPrefs.lowQuality) {
@@ -645,7 +646,7 @@ class PlayState extends MusicBeatState
 		add(dadGroup);
 
 		if(curStage == 'philstage3') //thank you lunar for helping layer this bullshit -- lunar is cool B)
-			add(handlol);
+			add(handlol); //this hand fucking sucks bro like boy what the hell boy
 
 		// Shitty layering but whatev it works LOL
 		if (curStage == 'limo')

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "phil idle"
+		},
+		{
+			"offsets": [
+				315,
+				-4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "phil left"
+		},
+		{
+			"offsets": [
+				0,
+				-6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "phil right"
+		},
+		{
+			"offsets": [
+				4,
+				-5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "phil up"
+		},
+		{
+			"offsets": [
+				10,
+				2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "phil down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/phil_get_choked",
+	"position": [
+		0,
+		40
+	],
+	"healthicon": "phil",
+	"flip_x": false,
+	"healthbar_colors": [
+		56,
+		62,
+		165
+	],
+	"camera_position": [
+		-90,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

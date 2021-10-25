@@ -1,6 +1,6 @@
 function onCreate()
 	-- background shit
-	makeLuaSprite('sdadasdfwee', 'sdadasdfwee', -400, 0);
+	makeLuaSprite('sdadasdfwee', 'sdadasdfwee', -400, -200);
 	setLuaSpriteScrollFactor('sdadasdfwee', 0.1, 0.1);
 
 	makeLuaSprite('the ke coder like gibberish', 'the ke coder like gibberish', 291.5, 569.5);

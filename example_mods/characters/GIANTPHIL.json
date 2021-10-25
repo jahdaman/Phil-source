@@ -84,9 +84,9 @@
 	"healthicon": "phil",
 	"flip_x": false,
 	"healthbar_colors": [
-		49,
-		96,
-		255
+		56,
+		62,
+		165
 	],
 	"camera_position": [
 		-160,

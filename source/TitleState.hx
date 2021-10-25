@@ -431,7 +431,7 @@ class TitleState extends MusicBeatState
 			switch (curBeat)
 			{
 				case 1:
-					createCoolText(['Blue Ball Brigdae'], 45);
+					createCoolText(['Blue Ball Brigade'], 45);
 				// credTextShit.visible = true;
 				case 3:
 					addMoreText('Proudly', 45);
@@ -474,7 +474,7 @@ class TitleState extends MusicBeatState
 					addMoreText('Night');
 				// credTextShit.text += '\nNight';
 				case 15:
-					addMoreText('at phils moon house'); // credTextShit.text += '\nFunkin'; //moo house :)
+					addMoreText('at Phils Moon House'); // credTextShit.text += '\nFunkin'; //moo house :)
 
 				case 16:
 					skipIntro();
